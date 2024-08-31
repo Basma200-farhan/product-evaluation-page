@@ -1,0 +1,166 @@
+.body{
+
+background-color: rgb(255, 255, 255);
+}
+.header{
+ width: 1200px;
+ max-height: 500px;
+ margin-left: 400px;
+ margin-top: 400px;
+ margin-right: 300px;
+ margin-bottom: 300px;
+ padding-top: 90px;
+ padding-bottom: 390px;
+background-color: rgb(255, 255, 255);
+}
+.products{
+ font-size: 36px;
+ color:  hsl(300, 33%, 30%);
+ white-space:pre-wrap ;
+ margin-left: 50px;
+ font-weight: bold;
+ font-family: League Spartan;
+
+}
+.service{
+    font-size: 14px;
+    color:  hsl(300, 33%, 30%);
+     font-family: League Spartan;
+     font-weight: 400;
+    margin-left: 60px;
+  margin-bottom: 70px;
+  white-space:pre-wrap ;
+}
+.div{
+    position: relative;
+    margin-top:-5px ;
+    margin-left: 10px;
+    margin-right: 44px;
+    margin-bottom: 300px;
+
+}
+.div2{
+    padding:90px , 60px , 50px, 60px ;
+    background-color: hsl(300, 43%, 22%);
+    margin-bottom: 18px;
+    width: 300px;
+    height: 200px;
+    border-radius: 8px;
+    margin-left: 30px;
+}
+.image{
+    border-radius: 80px;
+   margin-top: 12px;
+   margin-left: 12px;
+   
+   }
+   .div3{
+    display: inline-block;
+    position: absolute;
+    padding:90px , 60px , 50px, 60px ;
+    background-color: hsl(300, 43%, 22%);
+    margin-bottom: 19px;
+    width: 300px;
+    height: 200px;
+    border-radius: 7px;
+   margin-left: 360px;
+    margin-top: -200px;
+
+ 
+}
+.image{
+    border-radius: 80px;
+   margin-top: 12px;
+   margin-left: 12px;
+   
+   }
+   .div4{
+    display: inline-block;
+    position: absolute;
+    padding:90px , 60px , 50px, 60px ;
+    background-color: hsl(300, 43%, 22%);
+    margin-bottom: 12px;
+    width: 300px;
+    height: 200px;
+    border-radius: 7px;
+   margin-left: 700px;
+    margin-top: -190px;
+
+ 
+}
+.image{
+    border-radius: 70px;
+   margin-top: 19px;
+   margin-left: 19px;
+   
+   }
+
+.button1{
+    color: hsl(300, 33%, 30%);
+
+    background-color:  hsl(300, 24%, 96%);
+    position: absolute;
+    padding-right: 60px;
+    padding-left: 40px;
+    padding-top: 15px;
+padding-bottom: 13px;
+margin-left:630px;
+margin-top: 460px;
+
+border-radius: 4px;
+   border: none;
+  cursor: pointer;
+  
+}
+.button2{
+    color: hsl(300, 33%, 30%);
+
+    background-color: hsl(300, 24%, 96%);
+    position: absolute;
+    padding-right: 60px;
+    padding-left: 40px;
+    padding-top: 15px;
+padding-bottom: 13px;
+margin-left:570px;
+margin-top:400px;
+margin-bottom: -422px;
+border-radius: 4px;
+   border: none;
+  cursor: pointer;
+  
+}
+.button3{
+    color: hsl(300, 33%, 30%);
+
+    background-color:  hsl(300, 24%, 96%);
+    position: absolute;
+    padding-right: 60px;
+    padding-left: 40px;
+    padding-top: 15px;
+padding-bottom: 13px;
+margin-left:500px;
+margin-top: 335px;
+margin-bottom: 4px;
+border-radius: 4px;
+   border: none;
+  cursor: pointer;
+  
+}
+.checked{
+    color: orange;
+}
+.h4{
+    margin-top: -43px;
+    margin-left: 90px;
+    color: #ffffff;
+}
+.h5{
+    margin-top: -23px;
+    margin-left: 90px;
+    color: hsl(333, 80%, 67%);
+}
+.para{
+    margin-left: 12px;
+    color: #ffffff;
+    font-size: 14px;
+}
